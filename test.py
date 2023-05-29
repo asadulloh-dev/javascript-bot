@@ -6,7 +6,7 @@ url = "https://tiktok-video-no-watermark2.p.rapidapi.com/"
 querystring = {"url":"https://www.tiktok.com/@tiktok/video/7106658991907802411","hd":"1"}
 
 headers = {
-	"X-RapidAPI-Key": "7d02d25f3amsh428a3ea7e144132p1b23adjsn1878a89c049d",
+	"X-RapidAPI-Key": "",
 	"X-RapidAPI-Host": "tiktok-video-no-watermark2.p.rapidapi.com"
 }
 
@@ -24,7 +24,7 @@ with open('new.json', 'w+') as file:
 # 	querystring = {"id":video_id}
 
 # 	headers = {
-# 		"X-RapidAPI-Key": "7d02d25f3amsh428a3ea7e144132p1b23adjsn1878a89c049d",
+# 		"X-RapidAPI-Key": "",
 # 		"X-RapidAPI-Host": "youtube-mp36.p.rapidapi.com"
 # 	}
 
@@ -40,7 +40,7 @@ with open('new.json', 'w+') as file:
 # 	querystring = {"url": link}
 
 # 	headers = {
-# 		"X-RapidAPI-Key": "7d02d25f3amsh428a3ea7e144132p1b23adjsn1878a89c049d",
+# 		"X-RapidAPI-Key": "",
 # 		"X-RapidAPI-Host": "instagram-downloader-download-instagram-videos-stories.p.rapidapi.com"
 # 	}
 
@@ -66,7 +66,7 @@ with open('new.json', 'w+') as file:
 # querystring = {"user":"cr7cristianoronaldo"}
 
 # headers = {
-# 	"X-RapidAPI-Key": "7d02d25f3amsh428a3ea7e144132p1b23adjsn1878a89c049d",
+# 	"X-RapidAPI-Key": "",
 # 	"X-RapidAPI-Host": "instagram-scraper-2022.p.rapidapi.com"
 # }
 
